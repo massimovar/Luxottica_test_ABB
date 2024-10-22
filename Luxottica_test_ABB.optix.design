@@ -1,0 +1,49 @@
+Project:
+ Name: Luxottica_test_ABB_Design
+ ProjectNamespaceIndex: 10
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ ProductVersion: 1.4
+ CoreVersion: 3.0
+ Dependencies:
+  2:
+   Uri: Luxottica_test_ABB
+   RelativePath: Luxottica_test_ABB.optix
+  3:
+   Uri: '760e44627ce0ea2673b0782fec52c2a5#urn:192.168.150.110:OMRON:NxOpcUaServer'
+   ServerUri: 760e44627ce0ea2673b0782fec52c2a5
+  4:
+   Uri: '760e44627ce0ea2673b0782fec52c2a5#http://PLCopen.org/OpcUa/IEC61131-3/'
+   ServerUri: 760e44627ce0ea2673b0782fec52c2a5
+  5:
+   Uri: '760e44627ce0ea2673b0782fec52c2a5#http://opcfoundation.org/UA/DI/'
+   ServerUri: 760e44627ce0ea2673b0782fec52c2a5
+  6:
+   Uri: '760e44627ce0ea2673b0782fec52c2a5#urn:OMRON:NxOpcUaServer:FactoryAutomation'
+   ServerUri: 760e44627ce0ea2673b0782fec52c2a5
+  7:
+   Uri: 'urn:FTOptix:CoreBase'
+   Module: FTOptix.CoreBase
+   Version: 4.0
+  8:
+   Uri: 'urn:FTOptix:CoreBase:Net'
+   Module: FTOptix.CoreBase.Net
+   Version: 1.1
+  9:
+   Uri: 'urn:FTOptix:NetLogic'
+   Module: FTOptix.NetLogic
+   Version: 3.0
+ Statistics:
+  TotalNodeCount: 0
+  Objects: 0
+  ObjectTypes: 0
+  Variables: 0
+  VariableTypes: 0
+  DataTypes: 0
+  Methods: 0
+  References: 0
+  ReferenceTypes: 0
+  Files: 0
+ Nodes: []
